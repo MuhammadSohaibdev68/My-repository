@@ -1,4 +1,4 @@
 # My-repository
 This is my first repository
 <br>
-Author:Muhammad Sohiab
+Author:Muhammad Sohaib
